@@ -48,6 +48,8 @@ body {
 
 .dashboard {
     padding: 16px 0px 0px 16px;
+    color: white;
+    background-color: var(--color-dark-purple);
 
     grid-row: 1 / -1;
 
@@ -59,6 +61,10 @@ body {
 .dashboard > .logo {
     display: flex;
     align-items: center;
+}
+
+.dashboard > .logo > img {
+    filter: invert(100%);
 }
 
 .dashboard > .logo > .logo-text {
