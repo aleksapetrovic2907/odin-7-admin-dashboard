@@ -157,6 +157,10 @@ body {
     font-size: .75rem;
 }
 
+.profile-greeting p:last-child {
+    font-size: 1.5rem;
+}
+
 .quick-actions {
     display: flex;
     justify-content: space-between;
