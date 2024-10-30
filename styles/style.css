@@ -213,6 +213,10 @@ body {
     align-items: center;
 }
 
+.trending-profile:not(:first-child):not(:last-child) {
+    margin: 16px 0;
+}
+
 .trending-profile> .profile-picture {
     border-radius: 100%;
     border: none;
