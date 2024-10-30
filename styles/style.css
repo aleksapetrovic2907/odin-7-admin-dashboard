@@ -94,6 +94,7 @@ body {
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 1fr 1fr;
+    gap: 24px 4px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
