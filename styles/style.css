@@ -123,6 +123,12 @@ body {
     width: 40px;
 }
 
+.profile-greeting {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
 .main {
     display: grid;
     grid-template-columns: 2fr 1fr;
