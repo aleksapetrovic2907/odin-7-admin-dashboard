@@ -104,6 +104,8 @@ body {
 
 .search > input {
     flex: 1;
+    border-radius: 32px;
+    border: none;
 }
 
 .profile-menu {
