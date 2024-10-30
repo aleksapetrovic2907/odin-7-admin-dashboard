@@ -207,6 +207,12 @@ body {
     grid-row: 1 / -1;
 }
 
+.project-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 24px;
+}
+
 .projects .card {
     display: flex;
     flex-direction: column;
