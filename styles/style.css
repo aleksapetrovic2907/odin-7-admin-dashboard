@@ -153,6 +153,10 @@ body {
     width: 64px;
 }
 
+.profile-greeting p:first-child {
+    font-size: .75rem;
+}
+
 .quick-actions {
     display: flex;
     justify-content: space-between;
