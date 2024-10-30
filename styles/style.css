@@ -212,6 +212,16 @@ body {
     flex-direction: column;
 }
 
+.projects .content {
+    flex: 1 1 auto;
+}
+
+.projects .name {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
 .projects .actions {
     display: flex;
     justify-content: flex-end;
