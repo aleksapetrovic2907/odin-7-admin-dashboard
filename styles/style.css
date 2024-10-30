@@ -217,6 +217,7 @@ body {
     border-radius: 100%;
     border: none;
     width: 40px;
+    margin-right: 16px;
 }
 
 .trending-profile> div> p {
