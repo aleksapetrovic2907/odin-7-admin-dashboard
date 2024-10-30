@@ -129,6 +129,10 @@ body {
     gap: 24px;
 }
 
+.profile-greeting > .profile-picture {
+    width: 64px;
+}
+
 .main {
     display: grid;
     grid-template-columns: 2fr 1fr;
