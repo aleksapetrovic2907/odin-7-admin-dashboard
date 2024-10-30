@@ -39,6 +39,7 @@ li {
 
 body {
     height: 100vh;
+    font-family: 'Roboto', sans-serif;
 
     display: grid;
     grid-template-columns: 1fr 4fr;
