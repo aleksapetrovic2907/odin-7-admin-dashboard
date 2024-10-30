@@ -86,6 +86,8 @@ body {
 
 .dashboard ul li a {
     color: white;
+    display: flex;
+    align-items: center;
 }
 
 .dashboard ul li a img {
