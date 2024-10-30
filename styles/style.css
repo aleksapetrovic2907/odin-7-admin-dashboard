@@ -106,6 +106,7 @@ body {
 }
 
 .search > input {
+    height: 2em;
     flex: 1;
     border-radius: 32px;
     border: none;
