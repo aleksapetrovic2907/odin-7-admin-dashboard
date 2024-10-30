@@ -37,7 +37,7 @@ li {
     list-style-type: none;
 }
 
-.main {
+body {
     height: 100vh;
 
     display: grid;
