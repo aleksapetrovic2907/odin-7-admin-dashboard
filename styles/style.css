@@ -160,6 +160,10 @@ body {
     grid-template-rows: 1fr 1fr;
 }
 
+.main .title {
+    margin-top: 24px;
+}
+
 .projects {
     display: flex;
     flex-direction: column;
