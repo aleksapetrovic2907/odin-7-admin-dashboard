@@ -137,6 +137,12 @@ body {
     width: 64px;
 }
 
+.quick-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .main {
     display: grid;
     grid-template-columns: 2fr 1fr;
