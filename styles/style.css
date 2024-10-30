@@ -216,6 +216,7 @@ body {
 .trending-profile> .profile-picture {
     border-radius: 100%;
     border: none;
+    width: 40px;
 }
 
 .btn {
