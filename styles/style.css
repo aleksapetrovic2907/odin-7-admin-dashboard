@@ -82,6 +82,10 @@ body {
     margin: 12px 0;
 }
 
+.dashboard ul li a {
+    color: white;
+}
+
 .header {
     display: grid;
     grid-template-columns: 2fr 1fr;
