@@ -171,6 +171,8 @@ body {
     background-color: white;
     border-radius: 12px;
     border: none;
+    box-sizing: border-box;
+    padding: 32px 24px;
 }
 
 .projects {
