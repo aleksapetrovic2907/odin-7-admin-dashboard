@@ -155,6 +155,7 @@ body {
 
 .profile-greeting p:first-child {
     font-size: .75rem;
+    margin-bottom: 4px;
 }
 
 .profile-greeting p:last-child {
