@@ -207,6 +207,11 @@ body {
     grid-row: 1 / -1;
 }
 
+.projects .card {
+    display: flex;
+    flex-direction: column;
+}
+
 .announcements,
 .trending {
     display: flex;
