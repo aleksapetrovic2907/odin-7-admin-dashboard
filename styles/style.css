@@ -54,6 +54,10 @@ body {
     gap: 32px;
 }
 
+.dashboard ul li {
+    margin: 12px 0;
+}
+
 .header {
     display: grid;
     grid-template-columns: 2fr 1fr;
