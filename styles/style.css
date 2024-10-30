@@ -210,6 +210,7 @@ body {
 .projects .card {
     display: flex;
     flex-direction: column;
+    box-shadow: inset 6px 0 0px var(--color-black-coral);
 }
 
 .projects .content {
