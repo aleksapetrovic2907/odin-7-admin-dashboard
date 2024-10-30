@@ -139,6 +139,10 @@ body {
     width: 40px;
 }
 
+.profile-menu> p {
+    font-size: 1.25rem;
+}
+
 .profile-greeting {
     display: flex;
     align-items: center;
