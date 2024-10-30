@@ -45,6 +45,7 @@ a {
 body {
     height: 100vh;
     font-family: 'Roboto', sans-serif;
+    background-color: var(--color-grey);
 
     display: grid;
     grid-template-columns: 1fr 4fr;
