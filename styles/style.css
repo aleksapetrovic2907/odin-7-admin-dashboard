@@ -97,6 +97,10 @@ body {
     width: 24px;
 }
 
+.profile-menu > .profile-picture {
+    width: 40px;
+}
+
 .main {
     display: grid;
     grid-template-columns: 2fr 1fr;
