@@ -81,13 +81,14 @@ body {
 }
 
 .dashboard ul li {
-    margin: 12px 0;
+    margin: 16px 0;
 }
 
 .dashboard ul li a {
     color: white;
     display: flex;
     align-items: center;
+    gap: 12px;
 }
 
 .dashboard ul li a img {
