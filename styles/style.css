@@ -122,6 +122,11 @@ body {
     background-color: var(--color-grey);
 }
 
+.search > input:focus {
+    outline: 2px solid var(--color-gainsboro);
+    box-shadow: rgba(0, 0, 0, 0.15) 0 1.95px 5px;
+}
+
 .profile-menu {
     display: flex;
     justify-content: center;
