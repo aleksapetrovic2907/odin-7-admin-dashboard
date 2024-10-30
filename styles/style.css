@@ -80,6 +80,10 @@ body {
     font-size: 1.5rem;
 }
 
+.dashboard ul {
+    margin-left: 6px;
+}
+
 .dashboard ul li {
     margin: 16px 0;
 }
