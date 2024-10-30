@@ -37,6 +37,10 @@ li {
     list-style-type: none;
 }
 
+a {
+    text-decoration-line: none;
+}
+
 body {
     height: 100vh;
     font-family: 'Roboto', sans-serif;
