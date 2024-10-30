@@ -36,3 +36,8 @@
 li {
     list-style-type: none;
 }
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
