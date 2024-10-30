@@ -92,6 +92,13 @@ body {
     grid-template-rows: 1fr 1fr;
 }
 
+.profile-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
 .search-icon,
 .notification-icon {
     width: 24px;
