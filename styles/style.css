@@ -103,6 +103,10 @@ body {
     width: 24px;
 }
 
+.profile-picture {
+    border-radius: 100%;
+}
+
 .search {
     display: flex;
     align-items: center;
