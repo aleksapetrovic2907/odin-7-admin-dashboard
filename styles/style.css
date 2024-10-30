@@ -47,6 +47,8 @@ body {
 }
 
 .dashboard {
+    padding: 16px 0px 0px 16px;
+
     grid-row: 1 / -1;
 
     display: flex;
