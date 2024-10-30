@@ -160,6 +160,11 @@ body {
     grid-template-rows: 1fr 1fr;
 }
 
+.projects {
+    display: flex;
+    flex-direction: column;
+}
+
 .btn {
     border-radius: 32px;
     border: none;
