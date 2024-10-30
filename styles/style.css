@@ -89,6 +89,7 @@ body {
 }
 
 .header {
+    padding: 12px 32px;
     background-color: white;
     display: grid;
     grid-template-columns: 2fr 1fr;
