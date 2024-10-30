@@ -54,6 +54,11 @@ body {
     gap: 32px;
 }
 
+.dashboard > .logo {
+    display: flex;
+    align-items: center;
+}
+
 .dashboard ul li {
     margin: 12px 0;
 }
