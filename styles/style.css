@@ -200,6 +200,7 @@ body {
 
 .announcement-content {
     font-size: .8em;
+    color: var(--color-dark-grey);
 }
 
 .btn {
