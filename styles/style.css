@@ -27,3 +27,7 @@
 .dark-purple {
     background: var(--color-dark-purple);
 }
+
+li {
+    list-style-type: none;
+}
