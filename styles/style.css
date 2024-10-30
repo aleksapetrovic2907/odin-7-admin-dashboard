@@ -92,6 +92,11 @@ body {
     grid-template-rows: 1fr 1fr;
 }
 
+.search-icon,
+.notification-icon {
+    width: 24px;
+}
+
 .main {
     display: grid;
     grid-template-columns: 2fr 1fr;
