@@ -222,6 +222,11 @@ body {
     margin-bottom: 8px;
 }
 
+.projects .description {
+    color: var(--color-dark-grey);
+    font-weight: 300;
+}
+
 .projects .actions {
     display: flex;
     justify-content: flex-end;
