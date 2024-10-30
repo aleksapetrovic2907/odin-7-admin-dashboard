@@ -219,6 +219,11 @@ body {
     width: 40px;
 }
 
+.trending-profile> div> p:last-child {
+    font-size: .8rem;
+    color: var(--color-dark-grey);
+}
+
 .btn {
     border-radius: 32px;
     border: none;
