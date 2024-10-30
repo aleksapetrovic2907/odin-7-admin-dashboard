@@ -65,18 +65,18 @@ body {
     gap: 32px;
 }
 
-.dashboard > .logo {
+.dashboard>.logo {
     display: flex;
     align-items: center;
     gap: 8px;
 }
 
-.dashboard > .logo > img {
+.dashboard>.logo>img {
     filter: invert(100%);
     width: 32px;
 }
 
-.dashboard > .logo > .logo-text {
+.dashboard>.logo>.logo-text {
     margin: 0;
     font-size: 1.5rem;
 }
@@ -113,7 +113,7 @@ body {
     align-items: center;
 }
 
-.search > input {
+.search>input {
     height: 2em;
     margin-left: 18px;
     padding: 0 16px;
@@ -123,7 +123,7 @@ body {
     background-color: var(--color-grey);
 }
 
-.search > input:focus {
+.search>input:focus {
     outline: 2px solid var(--color-gainsboro);
     box-shadow: rgba(0, 0, 0, 0.15) 0 1.95px 5px;
 }
@@ -135,7 +135,7 @@ body {
     gap: 24px;
 }
 
-.profile-menu > .profile-picture {
+.profile-menu>.profile-picture {
     width: 40px;
 }
 
@@ -145,7 +145,7 @@ body {
     gap: 24px;
 }
 
-.profile-greeting > .profile-picture {
+.profile-greeting>.profile-picture {
     width: 64px;
 }
 
@@ -189,12 +189,12 @@ body {
     flex-direction: column;
 }
 
-.announcements > .card > .announcement:nth-child(2) {
+.announcements>.card>.announcement:nth-child(2) {
     border-top: 1px solid var(--color-dark-grey);
     border-bottom: 1px solid var(--color-dark-grey);
 }
 
-.announcements > .card > .announcement { 
+.announcements>.card>.announcement {
     padding: 16px 0;
 }
 
