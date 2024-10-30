@@ -221,6 +221,7 @@ body {
 
 .projects .content {
     flex: 1 1 auto;
+    margin-bottom: 32px;
 }
 
 .projects .name {
