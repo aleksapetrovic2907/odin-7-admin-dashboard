@@ -208,6 +208,11 @@ body {
     color: var(--color-dark-grey);
 }
 
+.trending-profile {
+    display: flex;
+    align-items: center;
+}
+
 .btn {
     border-radius: 32px;
     border: none;
