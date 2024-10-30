@@ -198,6 +198,10 @@ body {
     font-size: 1em;
 }
 
+.announcement-content {
+    font-size: .8em;
+}
+
 .btn {
     border-radius: 32px;
     border: none;
