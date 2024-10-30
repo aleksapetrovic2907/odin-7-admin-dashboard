@@ -212,6 +212,10 @@ body {
     flex-direction: column;
 }
 
+.projects .card img {
+    width: 32px;
+}
+
 .announcements,
 .trending {
     display: flex;
