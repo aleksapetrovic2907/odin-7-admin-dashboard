@@ -115,6 +115,7 @@ body {
 .search > input {
     height: 2em;
     margin-left: 18px;
+    padding: 0 16px;
     flex: 1;
     border-radius: 32px;
     border: none;
