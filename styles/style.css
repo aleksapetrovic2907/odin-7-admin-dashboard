@@ -59,6 +59,10 @@ body {
     align-items: center;
 }
 
+.dashboard > .logo > .logo-text {
+    margin: 0;
+}
+
 .dashboard ul li {
     margin: 12px 0;
 }
