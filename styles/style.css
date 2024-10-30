@@ -212,7 +212,14 @@ body {
     flex-direction: column;
 }
 
-.projects .card img {
+.projects .actions {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 24px;
+}
+
+.projects .actions img {
     width: 32px;
 }
 
