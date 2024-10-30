@@ -163,7 +163,7 @@ body {
 }
 
 .main .title {
-    margin-top: 24px;
+    margin: 24px 0px 12px;
     font-size: 1.25em;
     font-weight: 500;
 }
