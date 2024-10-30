@@ -7,3 +7,23 @@
     --color-onyx: #352f44;
     --color-dark-purple: #2a2438;
 }
+
+.white {
+    background: var(--color-white);
+}
+
+.gainsboro {
+    background: var(--color-gainsboro);
+}
+
+.black-coral {
+    background: var(--color-black-coral);
+}
+
+.onyx {
+    background: var(--color-onyx);
+}
+
+.dark-purple {
+    background: var(--color-dark-purple);
+}
